@@ -18,7 +18,7 @@
 #define DMITIGR_TPL_GENERIC_HPP
 
 #include "../base/assert.hpp"
-#include "../base/errctg.hpp"
+#include "../base/error.hpp"
 #include "../base/ret.hpp"
 #include "parameter.hpp"
 
